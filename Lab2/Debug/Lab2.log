@@ -1,0 +1,7 @@
+﻿  Lab2.cpp
+D:\Vs_projs\C++\Labs\Lab2\Lab2\Tests.h(120,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Vs_projs\C++\Labs\Lab2\Lab2\Lab2.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Vs_projs\C++\Labs\Lab2\Lab2\Lab2.cpp(7,22): warning C4101: end: неиспользованная локальная переменная
+D:\Vs_projs\C++\Labs\Lab2\Lab2\Lab2.cpp(7,15): warning C4101: start: неиспользованная локальная переменная
+D:\Vs_projs\C++\Labs\Lab2\Lab2\Lab2.cpp(6,20): warning C4101: size: неиспользованная локальная переменная
+  Lab2.vcxproj -> D:\Vs_projs\C++\Labs\Lab2\Debug\Lab2.exe
