@@ -12,8 +12,8 @@ int main() {
 	TimeTestForMulMatrix(100);
 	TimeTestForMulMatrix(200);
 	TimeTestForMulMatrix(400);
-	/*
 	TimeTestForMulMatrix(1000);
+	/*
 	TimeTestForMulMatrix(2000);
 	TimeTestForMulMatrix(4000);
 	TimeTestForMulMatrix(10000);
